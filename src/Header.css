@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400..700&display=swap');
+
+.header-container {
+    position: absolute;
+    top: 0;
+    background: url(/public/blue-green-background.png);
+    height: 10svh;
+    width: 100vw;
+    border-radius: 36% 30% 64% 62% / 0% 0% 22% 22%;
+}
+
+.header-container h1 {
+    position: relative;
+    bottom: 2.5vh;
+    color: white;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    margin-left: 1vw;
+    margin-top: 4svh;
+}
